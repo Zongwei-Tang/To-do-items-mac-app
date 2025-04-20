@@ -1,8 +1,54 @@
-*This Mac app is created entirely by Claude 3.7. It is my first app that I developed. 
+# Todo App
 
 ## 📖 English | [中文说明](#中文说明)
 
-# Todo App
+*This Mac app is created entirely by Claude 3.7. It is my first app that I developed.*
+
+Todo App is a powerful macOS to-do list management application that helps you efficiently organize and track your daily tasks.
+
+## Features
+
+### Core Functions
+- ✅ Task Management: Create, edit, complete, and delete tasks
+- 📂 Categorization: Organize tasks into custom categories
+- ⭐ Priority Levels: Set task priority as High, Medium, or Low
+- 📅 Due Dates: Set deadlines for tasks and automatically flag overdue items
+- 🔄 Recurring Tasks: Support for daily, weekly, monthly, and yearly repetition
+
+### Advanced Functions
+- 💾 Data Persistence: Automatically saves your data
+- 📊 Statistics: Visualizes task completion rates and distribution
+- 🔍 Advanced Filters: Search and filter tasks by multiple criteria
+- 📱 Multi-Window Interface: Includes main, statistics, and backup management windows
+- 🔔 Notifications: Deadline reminders
+- 📤 Import/Export: Backup and restore data easily
+
+## Installation
+
+### Download Release
+Visit [Releases](https://github.com/Zongwei-Tang/To-do-items-mac-app/releases/tag/v1.0.0)
+
+## Usage Guide
+
+### Basic Operations
+- Add Task: Enter task name at the top input field and click "Add"
+- Complete Task: Click the circle in front of the task
+- Edit Task: Click the task row to open the detailed edit view
+- Delete Task: Swipe left on the task or use the right-click menu
+
+### Advanced Features
+- Category Management: Add, select, or delete categories from the sidebar
+- Export Data: Go to File > Export Data to create a backup
+- View Statistics: Go to View > Statistics to access analytics
+
+## Contact
+Zongwei Tang - tangzongwei070509@gmail.com
+
+---
+
+## 中文说明 | [English](#todo-app)
+
+*本 macOS 应用完全由 Claude 3.7 创建，是我开发的第一个应用。*
 
 Todo App是一款功能强大的macOS待办事项管理应用，帮助您高效组织和跟踪日常任务。
 
@@ -26,7 +72,7 @@ Todo App是一款功能强大的macOS待办事项管理应用，帮助您高效�
 ## 安装方法
 
 ### 下载发布版
-访问[Releases] (https://github.com/Zongwei-Tang/To-do-items-mac-app/releases/tag/v1.0.0)
+访问 [Releases](https://github.com/Zongwei-Tang/To-do-items-mac-app/releases/tag/v1.0.0)
 
 ## 使用说明
 
