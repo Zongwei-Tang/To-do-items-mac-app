@@ -1,6 +1,6 @@
 # Todo App
 
-## 📖 English | [中文说明](#chinese-description)
+## 📖 English | [中文说明](##chinese-description)
 
 *This Mac app is created entirely by Claude 3.7. It is my first app that I developed.*
 
