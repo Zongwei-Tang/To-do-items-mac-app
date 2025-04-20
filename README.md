@@ -1,5 +1,7 @@
 *This Mac app is created entirely by Claude 3.7. It is my first app that I developed. 
 
+## 📖 English | [中文说明](#中文说明)
+
 # Todo App
 
 Todo App是一款功能强大的macOS待办事项管理应用，帮助您高效组织和跟踪日常任务。
