@@ -1,6 +1,6 @@
 # Todo App
 
-## 📖 English | [中文说明](#中文说明)
+## 📖 English | [中文说明](#chinese-description)
 
 *This Mac app is created entirely by Claude 3.7. It is my first app that I developed.*
 
@@ -46,7 +46,7 @@ Zongwei Tang - tangzongwei070509@gmail.com
 
 ---
 
-## 中文说明 | [English](#todo-app)
+## Chinese Description | [English](#todo-app)
 
 *本 macOS 应用完全由 Claude 3.7 创建，是我开发的第一个应用。*
 
